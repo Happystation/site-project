@@ -102,7 +102,7 @@
 #portal-globalnav LI A {
         padding: 18px 18px 20px 18px;  MARGIN: 0px; COLOR: #FFF; BACKGROUND-REPEAT: no-repeat; HEIGHT: auto; BACKGROUND-COLOR: transparent! important; TEXT-DECORATION: none;margin-left:15px
 }
-#portal-globalnav LI.selected A {
+#portal-globalnav LI.active A {
         COLOR: #FFF; background-color:#99AFC7 !important; PADDING-BOTTOM: 20px;PADDING-TOP:18px
 }
 #portal-globalnav LI A:hover {
@@ -437,13 +437,13 @@ border: 0px
 .navTreeItem a, dd.portletItem .navTreeItem a {
 border:0px;
 display:block;
-padding-bottom:0.25em;
-padding-top:0.2em;
+padding-bottom:0.5em;
+padding-top:0.5em;
 text-decoration:none;
 padding-left:0.5em
 }
 /* navtree */
-li.selected div a.navTreeCurrentItem {
+dd.portletItem LI.active A{
 background-color:#A5A5A5;
 border:0px;
 color:#FFF;

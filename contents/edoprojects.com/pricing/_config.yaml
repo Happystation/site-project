@@ -1,6 +1,4 @@
 description: ''
 exclude: [img]
 order: [index.rst, saas.rst, consulting.rst, alone.rst]
-theme: index.html
-theme_default: default.html
 title: 产品购买

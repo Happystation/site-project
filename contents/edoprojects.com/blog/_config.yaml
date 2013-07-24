@@ -1,6 +1,4 @@
 description: ''
 exclude: [index.rst]
 order: []
-theme: index.html
-theme_default: default.html
 title: 产品博客

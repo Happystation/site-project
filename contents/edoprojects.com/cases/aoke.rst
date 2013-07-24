@@ -8,6 +8,8 @@ title: 上海奥克广告传媒有限公司
 上海奥克广告传媒有限公司
 =================================
 
+和客户沟通，协作完成客户广告项目
+
 .. container:: float-left
 
     .. figure:: img/edo-customers-heads-aoke.png
