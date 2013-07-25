@@ -66,6 +66,7 @@ title: 首页
               <div id="productsInfo-content-right">
 		   <div id="news-top"><a href="blog/"><h3>产品动态</h3></a></div>
 
+           <dd class="portletItem">
     
 .. news:: 官方博客
    :path: blog
@@ -73,7 +74,8 @@ title: 首页
 
 
 .. raw:: html
-                                
+                   
+        </dd>
  	 </div>
   </div>
 
@@ -111,4 +113,4 @@ title: 首页
    </div>	
  </div>
  
-			  		
+			  
