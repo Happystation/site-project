@@ -43,8 +43,10 @@
 .portletItemDetails {
 	DISPLAY: block; TEXT-ALIGN: right
 }
-.portletItem ul{ margin-top:0; margin-left:0;}
-.portletItem ul span{ DISPLAY:block; text-align:right;}
+.portletItem ul { margin-top:0; margin-left:0; }
+#productsInfo-content-right .portletItem ul a{ text-DECORATION:none; color: #264061;}
+#productsInfo-content-right .portletItem ul span{ margin-bottom:10px;}
+.portletItem ul span{ DISPLAY:block; text-align:right; }
 .portletFooter {
 	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.25em; MARGIN: 0px; PADDING-TOP: 0.25em; TEXT-ALIGN: right
 }

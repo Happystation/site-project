@@ -35,8 +35,13 @@ td#portal-column-two {
 /*    background-image:url(../img/col-bg.png);
     background-repeat:repeat-x	
 */
-
 }
+#productsinfo-content-right ul a{
+    line-height: 20px;
+    color: #264061;
+    text-decoration: none;
+}
+
 td#portal-column-content{
        vertical-align: top;
        border-collapse:collapse;
