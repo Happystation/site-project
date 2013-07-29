@@ -3,6 +3,6 @@ exclude: [img, emails, cert, forget-pwd.rst, forum.rst, index.rst.old, index2.rs
   quickstart.rst, onlinechat.rst, newsignup.rst, login.rst, picture, signup.rst, signup_new.rst,
   signup_old.rst, '*.png', indexcol.rst]
 order: [index.rst, tour, solution, cases, pricing, help, blog]
-theme: default.html
+theme: index.html
 theme_base: http://download.zopen.cn/themes/edoprojects.com/
 title: 易度项目管理软件 - 实现多方异地协作的项目管理系统，令项目管理有条不紊的项目管理工具
