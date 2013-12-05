@@ -4,5 +4,5 @@ exclude: [img, cert, forget-pwd.rst, forum.rst, index.rst.old, index2.rst.old,
   signup_old.rst, '*.png', indexcol.rst]
 order: [index.rst, tour, solution, cases, pricing, help, blog]
 theme: index.html
-theme_base: /themes/project
+theme_base: http://download.zopen.cn/themes/project
 title: 易度项目管理软件 - 实现多方异地协作的项目管理系统，令项目管理有条不紊的项目管理工具
